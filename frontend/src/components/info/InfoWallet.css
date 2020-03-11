@@ -1,0 +1,16 @@
+@media all and (min-width: 480px) {
+  .InfoWallet {
+    padding: 60px 0;
+  }
+
+  .InfoWallet form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+
+  .InfoWallet div {
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 60px 0;
+  }
+}

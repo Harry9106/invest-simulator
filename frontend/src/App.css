@@ -1,0 +1,20 @@
+.App .navbar-brand {
+  font-weight: bold;
+}
+
+.App .header-link-user {
+  position: relative;
+  margin-top: 5px;
+  padding: 0;
+  overflow: hidden;
+  /*top: -13px;*/
+  height: 40px;
+}
+
+.App .header-link-user .header-avatar-user {
+  display: inline;
+}
+
+.App .header-link-user .header-username {
+
+}

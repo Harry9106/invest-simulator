@@ -1,0 +1,16 @@
+@media all and (min-width: 480px) {
+  .InfoSellAssets {
+    padding: 60px 0;
+  }
+
+  .InfoSellAssets form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+
+  .InfoSellAssets div {
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 30px 0;
+  }
+}

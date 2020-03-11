@@ -1,0 +1,8 @@
+img.avatar-form-selected {
+    border: 5px #C70039  solid;
+    border-radius: 25px;
+}
+
+img.avatar-form {
+    cursor: pointer;
+}

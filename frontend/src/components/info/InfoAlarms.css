@@ -1,0 +1,20 @@
+@media all and (min-width: 480px) {
+  .InfoAlarms {
+    padding: 60px 0;
+  }
+
+  .InfoAlarms form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+
+  .InfoAlarms div {
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 30px 0;
+  }
+
+  th {
+    text-align:center
+  }
+}

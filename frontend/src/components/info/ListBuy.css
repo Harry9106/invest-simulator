@@ -1,0 +1,16 @@
+@media all and (min-width: 480px) {
+  .ListBuy {
+    padding: 60px 0;
+  }
+
+  .ListBuy form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+
+  .ListBuy div {
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 30px 0;
+  }
+}
